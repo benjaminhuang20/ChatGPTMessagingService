@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChatGPTMessagingService/static/css/main.7a9fa5fa.css",
-    "main.js": "/ChatGPTMessagingService/static/js/main.d05172c6.js",
-    "static/js/453.4199a512.chunk.js": "/ChatGPTMessagingService/static/js/453.4199a512.chunk.js",
-    "index.html": "/ChatGPTMessagingService/index.html",
-    "main.7a9fa5fa.css.map": "/ChatGPTMessagingService/static/css/main.7a9fa5fa.css.map",
-    "main.d05172c6.js.map": "/ChatGPTMessagingService/static/js/main.d05172c6.js.map",
-    "453.4199a512.chunk.js.map": "/ChatGPTMessagingService/static/js/453.4199a512.chunk.js.map"
+    "main.css": "/benjaminhuang20/ChatGPTMessagingService/static/css/main.7a9fa5fa.css",
+    "main.js": "/benjaminhuang20/ChatGPTMessagingService/static/js/main.0f649b11.js",
+    "static/js/453.4199a512.chunk.js": "/benjaminhuang20/ChatGPTMessagingService/static/js/453.4199a512.chunk.js",
+    "index.html": "/benjaminhuang20/ChatGPTMessagingService/index.html",
+    "main.7a9fa5fa.css.map": "/benjaminhuang20/ChatGPTMessagingService/static/css/main.7a9fa5fa.css.map",
+    "main.0f649b11.js.map": "/benjaminhuang20/ChatGPTMessagingService/static/js/main.0f649b11.js.map",
+    "453.4199a512.chunk.js.map": "/benjaminhuang20/ChatGPTMessagingService/static/js/453.4199a512.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a9fa5fa.css",
-    "static/js/main.d05172c6.js"
+    "static/js/main.0f649b11.js"
   ]
 }
